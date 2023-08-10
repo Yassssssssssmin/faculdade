@@ -1,0 +1,22 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos do cabeçalho */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Estilos do conteúdo principal */
+.container {
+    text-align: center;
+}
+
+/* Estilos do rodapé */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+}
